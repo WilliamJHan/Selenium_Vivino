@@ -7,21 +7,21 @@ This project is intended to provide more insights into different aspects of red 
 ## Data Dictionary
 Price: price of the wine in USD
 
-Year: year the wine was made
+**Year**: year the wine was made
 
-Country: country the wine was made in
+**Country**: country the wine was made in
 
-Overall_Rating: average rating out of 5
+**Overall_Rating**: average rating out of 5
 
-Overall_Rating_Count: count of all ratings
+**Overall_Rating_Count**: count of all ratings
 
-Light_Bold: one of the wine notes
+**Light_Bold**: one of the wine notes
 
-Smooth_Tannic: one of the wine notes
+**Smooth_Tannic**: one of the wine notes
 
-Dry_Sweet: one of the wine notes
+**Dry_Sweet**: one of the wine notes
 
-Soft_Acidic: one of the wine notes
+**Soft_Acidic**: one of the wine notes
 
 ## About the Author
 William Jeongwoo Han
